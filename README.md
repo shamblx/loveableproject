@@ -1,4 +1,3 @@
-Example ReadMe Bug Fix Report Section
 # ️ Bug Fixes Documentation – Expert Test (v 0.0.0)
 
 ## Overview
