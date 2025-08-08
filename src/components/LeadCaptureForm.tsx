@@ -28,7 +28,6 @@ export const LeadCaptureForm = () => {
     if (errors.length === 0) {
       // Save to database
   try {
-    // Make sure 'leads' is the name of your table in Supabase
     const { data, error: dbError } = await supabase
       .from('leads')
       .insert([
